@@ -1,0 +1,22 @@
+{
+    "name": "Liga Utama Inggris",
+    "short_name": "Liga Inggris",
+    "description": "Aplikasi Sepakbola Liga Utama Inggris",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#3f1052",
+    "theme_color": "#3f1052",
+    "icons": [
+        {
+            "src": "/img/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "gcm_sender_id": "552850285637"
+}
